@@ -18,6 +18,17 @@ Route::get('/', function () {
     return view('index');
 });
 
+Route::get('/{resource}', function ($resource)
+{
+    if( View::exists("pages.$resource") ){
+        return view("pages.$resource");
+    }else{
+        return view("pages.$resource.index");
+    }
+});
+
+
+
 Route::get('/{folder}/{resource}', function ($folder, $resource)
 {
     if( View::exists("pages.$folder.$resource") ){
