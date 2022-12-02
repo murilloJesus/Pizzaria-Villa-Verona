@@ -17,7 +17,7 @@
     <div class="footer-left">
 
 
-        <p>Desing por: Murillo (ALTERAR CASO PRECISE) &copy; Direitos: Pizzaria Villa Verona</p>
+        <p>Desing por: <a href="https://murillojesus.dev.br/" target="_blank">Murillo Jesus</a> &copy; Direitos: Pizzaria Villa Verona</p>
     </div>
 
 </footer>
