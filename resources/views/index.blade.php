@@ -139,12 +139,14 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20de%20Batata%20Frita%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-batata-frita.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-batata-frita.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Batata Frita</h3>
-                            <p> Ingredientes: Mussarela - Requeijão tipo Catupiry - Bacon - Batata Frita - Pizza de 8
-                                pedaços</p>
-                            <p class="price"><span>R$48.50</span></p>
+                            <p> Ingredientes: Mussarela - Requeijão tipo Catupiry - Bacon - Batata Frita </p>
+                                                 <p class="price">
+                                                    Grande <span>R$48.50</span><br>
+                                                    Broto <span>R$37.60</span>
+                                                </p>
 
                         </div>
                     </div>
@@ -155,12 +157,14 @@
                         <a href="
                 https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Portuguesa%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-queijo.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-queijo.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: 4 Queijos</h3>
-                            <p>Ingredientes: Mussarela - Requeijão tipo Catupiry - Parmesão - Provolone - Pizza de 8
-                                pedaços </p>
-                            <p class="price"><span>R$56.60</span></p>
+                            <p>Ingredientes: Mussarela - Requeijão tipo Catupiry - Parmesão - Provolone  </p>
+                            <p class="price">
+                                                    Grande <span>R$56.60</span><br>
+                                                    Broto <span>R$43.20</span>
+                                                </p>
                         </div>
                     </div>
                 </div>
@@ -170,12 +174,14 @@
                     <div class="services-wrap d-flex">
                         <a href="   https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20de%20%204%20Queijos%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-portuguesa.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-portuguesa.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Portuguesa</h3>
-                            <p>Ingredientes: Mussarela - Presunto - Palmito - Ervilha - Ovo - Cebola - Pizza de 8
-                                pedaços </p>
-                            <p class="price"><span>R$55.40</span> </p>
+                            <p>Ingredientes: Mussarela - Presunto - Palmito - Ervilha - Ovo - Cebola  </p>
+                            <p class="price">
+                                                    Grande <span>R$55.40</span><br>
+                                                    Broto <span>R$41.50</span>
+                                                </p>
                         </div>
                     </div>
                 </div>
@@ -186,11 +192,14 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Brigadeiro%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-brigadeiro.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-brigadeiro.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Brigadeiro </h3>
-                            <p>Ingredientes: Chocolate ao leite - Granulado - Pizza de 8 pedaços </p>
-                            <p class="price"><span>R$48.30</span> </p>
+                            <p>Ingredientes: Chocolate ao leite - Granulado  </p>
+                            <p class="price">
+                                                    Grande <span>R$48.30</span><br>
+                                                    Broto <span>R$37.40</span>
+                                                </p>
 
                         </div>
                     </div>
@@ -199,11 +208,14 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20%20Romeu%20e%20Julieta%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-romeu.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-romeu.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Romeu e Julieta </h3>
-                            <p>Ingredientes: Mussarela e Goiabada - Pizza de 8 pedaços </p>
-                            <p class="price"><span>R$48.30 </span> </p>
+                            <p>Ingredientes: Mussarela e Goiabada  </p>
+                            <p class="price">
+                                                    Grande <span>R$48.30</span><br>
+                                                    Broto <span>R$37.40</span>
+                                                </p>
 
                         </div>
                     </div>
@@ -215,11 +227,14 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20chocolate%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-banana.png);"></a>
+                            style="background-size: cover;  background-image: url(/assets/images/pizza-banana.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Banana com chocolate</h3>
-                            <p>Ingredientes: Banana - Chocolate ao Leite - Pizza de 8 pedaços </p>
-                            <p class="price"><span>R$49.50 </span> </p>
+                            <p>Ingredientes: Banana - Chocolate ao Leite  </p>
+                            <p class="price">
+                                                    Grande <span>R$49.50</span><br>
+                                                    Broto <span>R$38.60</span>
+                                                </p>
 
                         </div>
                     </div>
