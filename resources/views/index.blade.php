@@ -29,7 +29,7 @@
 
     <!-- menu.php -->
 
-    <section class="home-slider owl-carousel img" style="background-image: url(/assets/images/bg_1.jpg);">
+    <section class="home-slider owl-carousel img" style="background-image: url(/public/assets/images/bg_1.jpg);">
         <div class="slider-item">
             <div class="overlay"></div>
             <div class="container">
@@ -107,7 +107,7 @@
     </section>
 
     <section class="ftco-about d-md-flex">
-        <div class="one-half img" style="background-image: url(/assets/images/about.jpg);"></div>
+        <div class="one-half img" style="background-image: url(/public/assets/images/about.jpg);"></div>
         <div class="one-half ftco-animate">
             <div class="heading-section ftco-animate ">
                 <h2 class="mb-4">Bem Vindo a <span class="flaticon-pizza">&nbsp; Pizzaria</span> <br> Villa Verona </h2>
@@ -139,7 +139,7 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20de%20Batata%20Frita%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-batata-frita.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-batata-frita.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Batata Frita</h3>
                             <p> Ingredientes: Mussarela - Requeijão tipo Catupiry - Bacon - Batata Frita </p>
@@ -157,7 +157,7 @@
                         <a href="
                 https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Portuguesa%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-queijo.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-queijo.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: 4 Queijos</h3>
                             <p>Ingredientes: Mussarela - Requeijão tipo Catupiry - Parmesão - Provolone  </p>
@@ -174,7 +174,7 @@
                     <div class="services-wrap d-flex">
                         <a href="   https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20de%20%204%20Queijos%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-portuguesa.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-portuguesa.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Portuguesa</h3>
                             <p>Ingredientes: Mussarela - Presunto - Palmito - Ervilha - Ovo - Cebola  </p>
@@ -192,7 +192,7 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Brigadeiro%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-brigadeiro.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-brigadeiro.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Brigadeiro </h3>
                             <p>Ingredientes: Chocolate ao leite - Granulado  </p>
@@ -208,7 +208,7 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20%20Romeu%20e%20Julieta%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-romeu.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-romeu.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Romeu e Julieta </h3>
                             <p>Ingredientes: Mussarela e Goiabada  </p>
@@ -227,7 +227,7 @@
                     <div class="services-wrap d-flex">
                         <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20chocolate%20de%208%20peda%C3%A7os"
                             class="img"
-                            style="background-size: cover;  background-image: url(/assets/images/pizza-banana.png);" target="_blank"></a>
+                            style="background-size: cover;  background-image: url(/public/assets/images/pizza-banana.png);" target="_blank"></a>
                         <div class="text p-4">
                             <h3>Pizza: Banana com chocolate</h3>
                             <p>Ingredientes: Banana - Chocolate ao Leite  </p>
