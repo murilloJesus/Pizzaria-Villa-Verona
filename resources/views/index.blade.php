@@ -84,7 +84,7 @@
                             <div class="icon"><span class="icon-phone"></span></div>
                             <div class="text">
                                 <h3>Entre em contato</h3>
-                                <p>(15) 99697-9953</p>
+                                <p><a href="tel:5515996979953">(15) 99697-9953</a></p>
                             </div>
                         </div>
                         <div class="col-md-4 d-flex ftco-animate">
@@ -97,7 +97,7 @@
                         <div class="col-md-4 d-flex ftco-animate">
                             <div class="icon"><span class="icon-clock-o"></span></div>
                             <div class="text">
-                                <h3> abertos de Seg a sex</h3>
+                                <h3>Terça-feira a Domingo</h3>
                                 <p>11:00 as 14:00 / 19:00 as 22:30</p>
                             </div>
                         </div>
