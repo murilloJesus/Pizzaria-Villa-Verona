@@ -8,22 +8,22 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/animate.css">
-    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="/assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="/assets/css/aos.css">
-    <link rel="stylesheet" href="/assets/css/ionicons.min.css">
-    <link rel="stylesheet" href="/assets/css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="/assets/css/jquery.timepicker.css">
-    <link rel="stylesheet" href="/assets/css/flaticon.css">
-    <link rel="stylesheet" href="/assets/css/icomoon.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/public/assets/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="/public/assets/css/animate.css">
+    <link rel="stylesheet" href="/public/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/public/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/public/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/public/assets/css/aos.css">
+    <link rel="stylesheet" href="/public/assets/css/ionicons.min.css">
+    <link rel="stylesheet" href="/public/assets/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="/public/assets/css/jquery.timepicker.css">
+    <link rel="stylesheet" href="/public/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/public/assets/css/icomoon.css">
+    <link rel="stylesheet" href="/public/assets/css/style.css">
 </head>
 
 <body>
-    <audio src="/assets/audios/audio-fornalha.mp3" autoplay></audio>
+    <audio src="/public/assets/audios/audio-fornalha.mp3" autoplay></audio>
 
     <x-menu />
 
@@ -40,11 +40,11 @@
                         <h1 class="mb-4">VILLA VERONA PIZZARIA</h1>
                         <p class="mb-4 mb-md-5">Que nunca nos falte paz, amor, felicidade e dinheiro para comprar pizza!
                         </p>
-                        <a href="/assets/cardapio.blade.php"
+                        <a href="/public/assets/cardapio.blade.php"
                             class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Acessar Nosso Menu</a></p>
                     </div>
                     <div class="col-md-6 ftco-animate">
-                        <img src="/assets/images/bg_1.png" class="img-fluid" alt="">
+                        <img src="/public/assets/images/bg_1.png" class="img-fluid" alt="">
                     </div>
 
                 </div>
@@ -61,11 +61,11 @@
                         <h1 class="mb-4">VILLA VERONA PIZZARIA</h1>
                         <p class="mb-4 mb-md-5">Salgada ou doce, com ou sem borda, sendo pizza eu amo de qualquer jeito!
                         </p>
-                        <a href="/assets/cardapio.blade.php"
+                        <a href="/public/assets/cardapio.blade.php"
                             class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Acessar Nosso Menu</a></p>
                     </div>
                     <div class="col-md-6 ftco-animate">
-                        <img src="/assets/images/bg_2.png" class="img-fluid" alt="">
+                        <img src="/public/assets/images/bg_2.png" class="img-fluid" alt="">
                     </div>
 
                 </div>
@@ -260,25 +260,25 @@
                             stroke="#F96D00" /></svg></div>
 
 
-                <script src="/assets/js/jquery.min.js"></script>
-                <script src="/assets/js/jquery-migrate-3.0.1.min.js"></script>
-                <script src="/assets/js/popper.min.js"></script>
-                <script src="/assets/js/bootstrap.min.js"></script>
-                <script src="/assets/js/jquery.easing.1.3.js"></script>
-                <script src="/assets/js/jquery.waypoints.min.js"></script>
-                <script src="/assets/js/jquery.stellar.min.js"></script>
-                <script src="/assets/js/owl.carousel.min.js"></script>
-                <script src="/assets/js/jquery.magnific-popup.min.js"></script>
-                <script src="/assets/js/aos.js"></script>
-                <script src="/assets/js/jquery.animateNumber.min.js"></script>
-                <script src="/assets/js/bootstrap-datepicker.js"></script>
-                <script src="/assets/js/jquery.timepicker.min.js"></script>
-                <script src="/assets/js/scrollax.min.js"></script>
+                <script src="/public/assets/js/jquery.min.js"></script>
+                <script src="/public/assets/js/jquery-migrate-3.0.1.min.js"></script>
+                <script src="/public/assets/js/popper.min.js"></script>
+                <script src="/public/assets/js/bootstrap.min.js"></script>
+                <script src="/public/assets/js/jquery.easing.1.3.js"></script>
+                <script src="/public/assets/js/jquery.waypoints.min.js"></script>
+                <script src="/public/assets/js/jquery.stellar.min.js"></script>
+                <script src="/public/assets/js/owl.carousel.min.js"></script>
+                <script src="/public/assets/js/jquery.magnific-popup.min.js"></script>
+                <script src="/public/assets/js/aos.js"></script>
+                <script src="/public/assets/js/jquery.animateNumber.min.js"></script>
+                <script src="/public/assets/js/bootstrap-datepicker.js"></script>
+                <script src="/public/assets/js/jquery.timepicker.min.js"></script>
+                <script src="/public/assets/js/scrollax.min.js"></script>
                 <script
-                    src="/assets/https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">
+                    src="/public/assets/https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">
                 </script>
-                <script src="/assets/js/google-map.js"></script>
-                <script src="/assets/js/main.js"></script>
+                <script src="/public/assets/js/google-map.js"></script>
+                <script src="/public/assets/js/main.js"></script>
 
 </body>
 

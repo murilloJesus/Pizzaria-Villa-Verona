@@ -8,18 +8,18 @@
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
-    <link rel="stylesheet" href="/assets/css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="/assets/css/animate.css">
-    <link rel="stylesheet" href="/assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="/assets/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="/assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="/assets/css/aos.css">
-    <link rel="stylesheet" href="/assets/css/ionicons.min.css">
-    <link rel="stylesheet" href="/assets/css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="/assets/css/jquery.timepicker.css">
-    <link rel="stylesheet" href="/assets/css/flaticon.css">
-    <link rel="stylesheet" href="/assets/css/icomoon.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/public/assets/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="/public/assets/css/animate.css">
+    <link rel="stylesheet" href="/public/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/public/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/public/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="/public/assets/css/aos.css">
+    <link rel="stylesheet" href="/public/assets/css/ionicons.min.css">
+    <link rel="stylesheet" href="/public/assets/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="/public/assets/css/jquery.timepicker.css">
+    <link rel="stylesheet" href="/public/assets/css/flaticon.css">
+    <link rel="stylesheet" href="/public/assets/css/icomoon.css">
+    <link rel="stylesheet" href="/public/assets/css/style.css">
 </head>
 
 <body>
@@ -252,7 +252,7 @@
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20Catupiry%201%20de%208%20peda%C3%A7os" target="_blank">Pizza:
                                                         Frango Catupiry 1 </a></h3>
-                                                <p>Ingredientes: Frango Desfiado e Reiqueijão tipo Catupiry 
+                                                <p>Ingredientes: Frango Desfiado e Reiqueijão tipo Catupiry
                                                 </p>
                                                 <p class="price">
                                                     Grande <span>R$48.50</span><br>
@@ -531,7 +531,7 @@
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20R%C3%BAcula%20de%208%20peda%C3%A7os" target="_blank">Pizza:
                                                         Rúcula </a></h3>
-                                                <p>Ingredientes: Mussarela - Rúcula - Tomate seco - Parmesão 
+                                                <p>Ingredientes: Mussarela - Rúcula - Tomate seco - Parmesão
                                                 </p>
                                                 <p class="price">
                                                     Grande <span>R$55.41</span><br>
@@ -718,7 +718,7 @@
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20%20Carne%20Seca%20de%208%20peda%C3%A7os" target="_blank">Pizza:
                                                         Carne Seca </a></h3>
-                                                <p>Ingredientes: Mussarela - Cebola - Rúcula - Carne Seca 
+                                                <p>Ingredientes: Mussarela - Cebola - Rúcula - Carne Seca
                                                 </p>
                                                 <p class="price">
                                                     Grande <span>R$65.60</span><br>
@@ -1050,25 +1050,25 @@
                 stroke="#F96D00" /></svg></div>
 
 
-    <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/jquery-migrate-3.0.1.min.js"></script>
-    <script src="/assets/js/popper.min.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/jquery.easing.1.3.js"></script>
-    <script src="/assets/js/jquery.waypoints.min.js"></script>
-    <script src="/assets/js/jquery.stellar.min.js"></script>
-    <script src="/assets/js/owl.carousel.min.js"></script>
-    <script src="/assets/js/jquery.magnific-popup.min.js"></script>
-    <script src="/assets/js/aos.js"></script>
-    <script src="/assets/js/jquery.animateNumber.min.js"></script>
-    <script src="/assets/js/bootstrap-datepicker.js"></script>
-    <script src="/assets/js/jquery.timepicker.min.js"></script>
-    <script src="/assets/js/scrollax.min.js"></script>
+    <script src="/public/assets/js/jquery.min.js"></script>
+    <script src="/public/assets/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="/public/assets/js/popper.min.js"></script>
+    <script src="/public/assets/js/bootstrap.min.js"></script>
+    <script src="/public/assets/js/jquery.easing.1.3.js"></script>
+    <script src="/public/assets/js/jquery.waypoints.min.js"></script>
+    <script src="/public/assets/js/jquery.stellar.min.js"></script>
+    <script src="/public/assets/js/owl.carousel.min.js"></script>
+    <script src="/public/assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="/public/assets/js/aos.js"></script>
+    <script src="/public/assets/js/jquery.animateNumber.min.js"></script>
+    <script src="/public/assets/js/bootstrap-datepicker.js"></script>
+    <script src="/public/assets/js/jquery.timepicker.min.js"></script>
+    <script src="/public/assets/js/scrollax.min.js"></script>
     <script
         src="https://maps.googleapis.com/maps/api/assets/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">
     </script>
-    <script src="/assets/js/google-map.js"></script>
-    <script src="/assets/js/main.js"></script>
+    <script src="/public/assets/js/google-map.js"></script>
+    <script src="/public/assets/js/main.js"></script>
 
 </body>
 
