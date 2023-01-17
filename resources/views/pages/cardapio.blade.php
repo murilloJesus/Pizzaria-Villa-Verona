@@ -67,7 +67,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Alho%20Frito%20%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-alho.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-alho.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Alho%20Frito%20%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -85,7 +85,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Calabresa%20Acebolada%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-calabreza-acebolada.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-calabreza-acebolada.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Calabresa%20Acebolada%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -103,7 +103,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Mussarela%20%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-mussarela.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-mussarela.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Mussarela%20%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -121,7 +121,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Bauru%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-bauru.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-bauru.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Bauru%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -139,7 +139,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%202%20Queijos%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-2-queijos.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-2-queijos.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%202%20Queijos%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -157,7 +157,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Baiana%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-baiana.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-baiana.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Baiana%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -176,7 +176,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Br%C3%B3culis%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-brocolis.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-brocolis.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Br%C3%B3culis%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -194,7 +194,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Br%C3%B3colis%20com%20Alho%20Frito%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-brocolis.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-brocolis.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Br%C3%B3colis%20com%20Alho%20Frito%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -213,7 +213,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Calabresa%20com%20Mussarela%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-calabreza-acebolada.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-calabreza-acebolada.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Calabresa%20com%20Mussarela%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -231,7 +231,7 @@
                                         <div class="menu-wrap">
                                             <a href="#https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Calacatu%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-calacatu.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-calacatu.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a href="#">Pizza: Calacatu </a></h3>
                                                 <p>Ingredientes: Calabresa - Cebola e Reiqueijão tipo Catupiry  </p>
@@ -247,7 +247,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20Catupiry%201%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-frango-catu.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-frango-catu.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20Catupiry%201%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -266,7 +266,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Marguerita%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-marguerita.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-marguerita.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Marguerita%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -284,7 +284,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Milho%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-milho.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-milho.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Milho%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -303,7 +303,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Napolitana%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-napolitana.png); " target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-napolitana.png); " target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Napolitana%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -322,7 +322,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Vegetariana%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-vegetariano.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-vegetariano.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Vegetariana%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -341,7 +341,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Batata%20Frita%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-batata-frita.jpg.png); " target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-batata-frita.jpg.png); " target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Batata%20Frita%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -360,7 +360,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Bacon%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-bacon.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-bacon.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Bacon%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -378,7 +378,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Escarola%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-escarola.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-escarola.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Escarola%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -397,7 +397,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20com%20Catupiry%202%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-frango-catu.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-frango-catu.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20com%20Catupiry%202%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -416,7 +416,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Palmito%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-palmito.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-palmito.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Palmito%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -434,7 +434,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Peito%20de%20Peru%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-peru.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-peru.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Peito%20de%20Peru%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -453,7 +453,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Abobrinha%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-abobrinha.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-abobrinha.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Abobrinha%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -471,7 +471,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Franbacon%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-franbacon.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-franbacon.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Franbacon%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -490,7 +490,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Lombo%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-lombo.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-lombo.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Lombo%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -508,7 +508,7 @@
                                         <div class="menu-wrap">
                                             <a href=" https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Portuguesa%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizzas-de-portuguesa.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizzas-de-portuguesa.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20Portuguesa%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -526,7 +526,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20R%C3%BAcula%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-rucula.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-rucula.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20R%C3%BAcula%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -545,7 +545,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Atum%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-atum.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-atum.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Atum%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -563,7 +563,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%204%20Queijos%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%204%20Queijos%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -582,7 +582,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Champignon%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-cham.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-cham.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Champignon%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -600,7 +600,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20do%20Pizzaiolo%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-pizaiolo.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-pizaiolo.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20do%20Pizzaiolo%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -619,7 +619,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Strogonoff%20de%20Frango%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-strogonoff.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-strogonoff.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Strogonoff%20de%20Frango%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -638,7 +638,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Pepperoni%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-peperoni.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-peperoni.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Pepperoni%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -656,7 +656,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20A%20Moda%20Verona%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-a-moda-verona.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-a-moda-verona.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20A%20Moda%20Verona%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -675,7 +675,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Costela%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-costela.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-costela.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Costela%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -694,7 +694,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20ao%204%20Queijos%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20ao%204%20Queijos%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -713,7 +713,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20%20Carne%20Seca%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-franbacon.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-franbacon.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20%20Carne%20Seca%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -732,7 +732,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20ao%20Creme%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-frango-ao-creme.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-frango-ao-creme.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Frango%20ao%20Creme%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -751,7 +751,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Pernil%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-pernil.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-pernil.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Pernil%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -768,7 +768,7 @@
                                     <div class="col-md-4 text-center">
                                         <div class="menu-wrap">
                                             <a href="#" class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-strogonoff.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-strogonoff.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a href="#">Pizza: Strogonoff de Carne </a></h3>
                                                 <p>Ingredientes: Mussarela - Strogonoff de Carne - Champignon - Batata
@@ -785,7 +785,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%205%20Queijos%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas/pizza-de-4-queijos.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%205%20Queijos%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -816,7 +816,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Brigadeiro%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-brigadeiro.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-brigadeiro.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Brigadeiro%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -834,7 +834,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Prestigio%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-prestigio.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-prestigio.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Prestigio%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -852,7 +852,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Romeu%20e%20Julieta%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-romeu.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-romeu.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Romeu%20e%20Julieta%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -870,7 +870,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Abacaxi%20Flambado%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-abacaxi.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-abacaxi.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Abacaxi%20Flambado%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -888,7 +888,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20Chocolate%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-banana-chocolate.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-banana-chocolate.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20Chocolate%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -906,7 +906,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20Canela%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-banana-com-canela.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-banana-com-canela.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20com%20Canela%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -925,7 +925,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20Nevada%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-banana-com-canela.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-banana-com-canela.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Banana%20Nevada%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -943,7 +943,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Ioio%20Cream%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-ioio.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-ioio.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Ioio%20Cream%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -960,7 +960,7 @@
                                     <div class="col-md-4 text-center">
                                         <div class="menu-wrap">
                                             <a href="#" class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-oreo.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-oreo.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a href="#">Pizza: Óreo </a></h3>
                                                 <p>Ingredientes: Chocolate ao Leite - Óreo e Chocolate Branco </p>
@@ -976,7 +976,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Charge%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-charge.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-charge.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Charge%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -994,7 +994,7 @@
                                         <div class="menu-wrap">
                                             <a href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Nutella%20com%20Morango%20de%208%20peda%C3%A7os"
                                                 class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-nuttela.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-nuttela.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a
                                                         href="https://api.whatsapp.com/send?phone=5515996979953&text=Oi%20tudo%20bem%3F%20Gostaria%20de%20uma%20pizza%20%20de%20Nutella%20com%20Morango%20de%208%20peda%C3%A7os" target="_blank">Pizza:
@@ -1011,7 +1011,7 @@
                                     <div class="col-md-4 text-center">
                                         <div class="menu-wrap">
                                             <a href="#" class="menu-img img mb-4"
-                                                style="background-image: url(/assets/images/cardapio/pizzas-doces/pizza-de-sensasao.png);" target="_blank"></a>
+                                                style="background-image: url(/public/assets/images/cardapio/pizzas-doces/pizza-de-sensasao.png);" target="_blank"></a>
                                             <div class="text">
                                                 <h3><a href="#">Pizza: Sensação </a></h3>
                                                 <p>Ingredientes: Chocolate ao Leite - Morango em pedaços - Chocolate
