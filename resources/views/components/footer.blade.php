@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/footer.css">
+<link rel="stylesheet" href="/public/assets/css/footer.css">
 <footer class="footer-distributed">
 
     <div class="footer-right">
